@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.bgImg   {
+  text-align: center;
+  background-image: url('../assets/shelfIdeogram.jpg'); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  height: 100vh;
+}
+
+.bgTop {
+  background-color: #61dafb;
+  scroll-margin-top: 10px;
+}
